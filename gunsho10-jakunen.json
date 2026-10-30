@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/jakunen",
  "yomi": "じゃくねんほうししゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安末期",
+  "author": "寂然",
+  "desc": "大原三寂の一人寂然の家集。四季の歌のほか、十戒をそれぞれ題に詠んだ釈教歌、西行との贈答などを収める。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -1600,6 +1605,6 @@
   "poems": 139,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
